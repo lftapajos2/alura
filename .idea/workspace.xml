@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db172381-44cf-4aba-b313-cfde612414b0" name="Changes" comment="Criação da classe ConversaoTemperatura para imprimir um valor convertido de graus Celsius para Fahrenheit">
+    <list default="true" id="db172381-44cf-4aba-b313-cfde612414b0" name="Changes" comment="Alteração da classe ConversaoTemperatura para imprimir valor em Fahrenheit da temperatura convertida para itpo inteiro de forma explícita.">
+      <change afterPath="$PROJECT_DIR$/src/Condicional.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConversaoTemperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConversaoTemperatura.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,23 +16,32 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2U1UV6ldhOth0W94btMDmR7Nox2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ConversaoTemperatura">
+}</component>
+  <component name="RunManager" selected="Application.Condicional">
+    <configuration name="Condicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Condicional" />
+      <module name="PrimeiraClasse" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConversaoTemperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConversaoTemperatura" />
       <module name="PrimeiraClasse" />
@@ -49,6 +58,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Condicional" />
         <item itemvalue="Application.ConversaoTemperatura" />
         <item itemvalue="Application.PrimeiraClasse" />
       </list>
@@ -87,12 +97,29 @@
       <option name="project" value="LOCAL" />
       <updated>1692191826101</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Alteração da classe ConversaoTemperatura para imprimir valor em Fahrenheit da temperatura convertida para itpo inteiro de forma explícita.">
+      <option name="closed" value="true" />
+      <created>1692192384501</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692192384501</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Alteração da classe ConversaoTemperatura para imprimir valor em Fahrenheit da temperatura convertida para itpo inteiro de forma explícita.">
+      <option name="closed" value="true" />
+      <created>1692192445498</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692192445498</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeira Classe desenvolvida para o curso Java da Alura." />
     <MESSAGE value="Criação da classe ConversaoTemperatura para imprimir um valor convertido de graus Celsius para Fahrenheit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação da classe ConversaoTemperatura para imprimir um valor convertido de graus Celsius para Fahrenheit" />
+    <MESSAGE value="Alteração da classe ConversaoTemperatura para imprimir valor em Fahrenheit da temperatura convertida para itpo inteiro de forma explícita." />
+    <option name="LAST_COMMIT_MESSAGE" value="Alteração da classe ConversaoTemperatura para imprimir valor em Fahrenheit da temperatura convertida para itpo inteiro de forma explícita." />
   </component>
 </project>
