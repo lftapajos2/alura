@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db172381-44cf-4aba-b313-cfde612414b0" name="Changes" comment="Criando a Classe de Loop com leitura de dados.">
-      <change afterPath="$PROJECT_DIR$/src/OutroLoop.java" afterDir="false" />
+    <list default="true" id="db172381-44cf-4aba-b313-cfde612414b0" name="Changes" comment="Criando a Classe de OutroLoop com leitura de dados para testar while.">
+      <change afterPath="$PROJECT_DIR$/src/JogoAdivinhacao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +34,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OutroLoop">
+  <component name="RunManager" selected="Application.JogoAdivinhacao">
     <configuration name="Condicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Condicional" />
       <module name="PrimeiraClasse" />
@@ -42,8 +42,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConversaoTemperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConversaoTemperatura" />
+    <configuration name="JogoAdivinhacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JogoAdivinhacao" />
       <module name="PrimeiraClasse" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JogoAdivinhacao" />
         <item itemvalue="Application.OutroLoop" />
         <item itemvalue="Application.Loop" />
         <item itemvalue="Application.Leitura" />
         <item itemvalue="Application.Condicional" />
-        <item itemvalue="Application.ConversaoTemperatura" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692280845789</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Criando a Classe de OutroLoop com leitura de dados para testar while.">
+      <option name="closed" value="true" />
+      <created>1692292854555</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1692292854555</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -172,6 +180,7 @@
     <MESSAGE value="Testando switch." />
     <MESSAGE value="Criando a Classe de Leitura de dados." />
     <MESSAGE value="Criando a Classe de Loop com leitura de dados." />
-    <option name="LAST_COMMIT_MESSAGE" value="Criando a Classe de Loop com leitura de dados." />
+    <MESSAGE value="Criando a Classe de OutroLoop com leitura de dados para testar while." />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando a Classe de OutroLoop com leitura de dados para testar while." />
   </component>
 </project>
