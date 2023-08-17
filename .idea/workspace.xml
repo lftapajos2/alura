@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db172381-44cf-4aba-b313-cfde612414b0" name="Changes" comment="Alteração da classe ConversaoTemperatura para imprimir valor em Fahrenheit da temperatura convertida para itpo inteiro de forma explícita.">
-      <change afterPath="$PROJECT_DIR$/src/Condicional.java" afterDir="false" />
+    <list default="true" id="db172381-44cf-4aba-b313-cfde612414b0" name="Changes" comment="Criação da classe Condicional.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Condicional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Condicional.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,13 +113,22 @@
       <option name="project" value="LOCAL" />
       <updated>1692192445498</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Criação da classe Condicional.">
+      <option name="closed" value="true" />
+      <created>1692277876579</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692277876579</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeira Classe desenvolvida para o curso Java da Alura." />
     <MESSAGE value="Criação da classe ConversaoTemperatura para imprimir um valor convertido de graus Celsius para Fahrenheit" />
     <MESSAGE value="Alteração da classe ConversaoTemperatura para imprimir valor em Fahrenheit da temperatura convertida para itpo inteiro de forma explícita." />
-    <option name="LAST_COMMIT_MESSAGE" value="Alteração da classe ConversaoTemperatura para imprimir valor em Fahrenheit da temperatura convertida para itpo inteiro de forma explícita." />
+    <MESSAGE value="Criação da classe Condicional." />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação da classe Condicional." />
   </component>
 </project>
